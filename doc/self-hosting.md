@@ -1,5 +1,7 @@
 # Hosting your own Shields server
 
+Be sure to review the [releases](https://github.com/badges/shields/blob/master/doc/production-hosting.md#shields-server) document for more information about self-hosted servers and how the server is packaged and released.
+
 ## Installation
 
 You will need Node 12 or later, which you can install using a
